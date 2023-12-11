@@ -40,13 +40,4 @@ a {
  padding: 10px;
  border: 2px dotted yellow;
 }
-.assign h2:hover{
-color:white;
-}
-.assign h2 {
-text-align:center;
-}
-.assign p {
-text-align:center;
-color:white;
-}
+
