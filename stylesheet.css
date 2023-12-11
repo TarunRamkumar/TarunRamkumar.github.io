@@ -16,15 +16,15 @@ h1:hover {
  width: 100%;
  display: block;
 }
-h2:hover {
+.assign-det h2:hover{
 color:white;
 }
-h2 {
+.assign-det h2 {
 text-align:center;
- ]
- 
-p {
+}
+.assign-det p {
 text-align:center;
+color:white;
 }
  
 a {
