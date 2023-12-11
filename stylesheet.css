@@ -34,14 +34,16 @@ a {
  width: 200px;
  margin: 10px;
  border: 2px solid midnightblue;
+ align:center;
 }
 .assign img:hover {
  width: 200px;
  padding: 10px;
  border: 2px dotted yellow;
+
 }
 .assign h2:hover{
-color:white;
+color:blue;
 }
 .assign h2 {
 text-align:center;
